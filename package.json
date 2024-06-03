@@ -1,0 +1,16 @@
+{
+  "name": "mcrae-fsm",
+  "version": "1.0.1",
+  "description": "Package used to map a file system and record to a json file.",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Developer McRae",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
