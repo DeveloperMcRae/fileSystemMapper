@@ -7,7 +7,7 @@
     "devStart": "nodemon",
     "start": "node ."
   },
-  "keywords": [],
+  "keywords": ["file", "system", "mapping", "javascript", "class"],
   "author": "Developer McRae",
   "license": "ISC",
   "devDependencies": {
