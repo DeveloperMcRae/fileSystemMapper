@@ -7,10 +7,19 @@
     "devStart": "nodemon",
     "start": "node ."
   },
-  "keywords": ["file", "system", "mapping", "javascript", "class"],
+  "keywords": [
+    "file",
+    "system",
+    "mapping",
+    "javascript",
+    "class"
+  ],
   "author": "Developer McRae",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.2"
+  },
+  "dependencies": {
+    "mcrae-pm": "^1.0.1"
   }
 }
